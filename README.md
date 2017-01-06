@@ -1,5 +1,5 @@
 # resolution_vis
-A sketch that takes an image and averages the pixel colours as the resolution changes, 
+A sketch that takes an image and stylistically averages the pixel colours as the resolution changes, 
 witten using Processing (https://processing.org)
 
 # the code
